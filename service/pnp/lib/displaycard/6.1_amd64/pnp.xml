@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pnpinfo os="6.1_amd64">
+    <dev ven="15AD" dev="0405" subsys="00000000" rev="00" ver="8.15.1.48" inf="VM3D" provider="" time="7-12-2016" default="0" updatetime="1575815210"/>
+    <dev ven="15AD" dev="0405" subsys="040515AD" rev="00" ver="8.15.1.48" inf="VM3D" provider="" time="7-12-2016" default="0" updatetime="1575815210"/>
+    <dir name="VM3D_8.15.1.48_6.1_amd64">
+        <file name="VM3D.inf" filetime="131415814624480517" size="4714" destpath=""/>
+    </dir>
+</pnpinfo>

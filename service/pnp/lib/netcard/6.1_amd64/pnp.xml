@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pnpinfo os="6.1_amd64">
+    <dev ven="14E4" dev="1647" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="16A7" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="16C7" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1648" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="16A8" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1654" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1653" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="166E" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="165E" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="165D" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1668" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="166A" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1678" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1669" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="166B" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1679" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1601" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="167D" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="16FD" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1600" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1658" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1659" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1676" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1677" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="167C" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="16F7" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="167E" rev="01" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="167E" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="167D" rev="10" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="167E" rev="10" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1658" rev="00" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1659" rev="00" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1676" rev="00" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1677" rev="00" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="167C" rev="00" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="167D" rev="01" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="167A" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1672" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1673" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1674" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1684" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="165B" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1690" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="16B0" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="16B4" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1682" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1686" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1641" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1642" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1643" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1683" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1687" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="16F3" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1655" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1665" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1656" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1657" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1657" rev="00" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="165F" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="167B" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="165A" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1675" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1680" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1681" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1688" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1689" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1696" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="169A" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="169B" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1693" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="167F" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="169C" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="169D" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="16DD" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="16FF" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="170D" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="170E" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1712" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="1713" rev="FF" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dev ven="14E4" dev="167D" rev="00" ver="16.6.0.4" inf="b57nd60a" provider="Broadcom" time="04/07/2014" default="1" updatetime="1419575343"/>
+    <dir name="b57nd60a_16.6.0.4_6.1_amd64">
+        <file name="b57nd60a.inf" filetime="130434598256500000" size="391664" destpath=""/>
+        <file name="b57nd60a.sys" filetime="130413128129170000" size="465176" destpath=""/>
+    </dir>
+    <dev ven="8086" dev="105E" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="105F" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="1060" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="107D" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="107E" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="107F" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="108B" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="108C" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="109A" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="1096" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="1098" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="1049" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="104A" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="104B" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="104D" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="104C" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="10C4" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="10C5" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="10B9" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="10BA" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="10BB" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="294C" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="10BD" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="10C0" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="10C2" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dev ven="8086" dev="10C3" rev="FF" ver="9.16.10.0" inf="e1e6232e" provider="Intel" time="06/19/2013" default="1" updatetime="1419575396"/>
+    <dir name="e1e6232e_9.16.10.0_6.1_amd64">
+        <file name="e1e6232e.inf" filetime="130161046300000000" size="191560" destpath=""/>
+        <file name="e1e6232e.sys" filetime="129960085500000000" size="302464" destpath=""/>
+    </dir>
+    <dev ven="8086" dev="10DE" rev="FF" ver="12.10.13.0" inf="e1k62x64" provider="Intel" time="07/18/2013" default="1" updatetime="1419575480"/>
+    <dev ven="8086" dev="10DF" rev="FF" ver="12.10.13.0" inf="e1k62x64" provider="Intel" time="07/18/2013" default="1" updatetime="1419575480"/>
+    <dev ven="8086" dev="1525" rev="FF" ver="12.10.13.0" inf="e1k62x64" provider="Intel" time="07/18/2013" default="1" updatetime="1419575480"/>
+    <dev ven="8086" dev="10EA" rev="FF" ver="12.10.13.0" inf="e1k62x64" provider="Intel" time="07/18/2013" default="1" updatetime="1419575480"/>
+    <dev ven="8086" dev="10EB" rev="FF" ver="12.10.13.0" inf="e1k62x64" provider="Intel" time="07/18/2013" default="1" updatetime="1419575480"/>
+    <dev ven="8086" dev="10EF" rev="FF" ver="12.10.13.0" inf="e1k62x64" provider="Intel" time="07/18/2013" default="1" updatetime="1419575480"/>
+    <dev ven="8086" dev="10F0" rev="FF" ver="12.10.13.0" inf="e1k62x64" provider="Intel" time="07/18/2013" default="1" updatetime="1419575480"/>
+    <dir name="e1k62x64_12.10.13.0_6.1_amd64">
+        <file name="e1k62x64.inf" filetime="130185650060000000" size="89526" destpath=""/>
+        <file name="e1k62x64.sys" filetime="130185568760000000" size="497424" destpath=""/>
+        <file name="e1kmsg.dll" filetime="130191665420000000" size="73480" destpath=""/>
+    </dir>
+    <dev ven="8086" dev="10A7" rev="FF" ver="12.7.27.0" inf="e1q62x64" provider="Intel" time="05/16/2013" default="1" updatetime="1419575491"/>
+    <dev ven="8086" dev="10A9" rev="FF" ver="12.7.27.0" inf="e1q62x64" provider="Intel" time="05/16/2013" default="1" updatetime="1419575491"/>
+    <dev ven="8086" dev="10A6" rev="FF" ver="12.7.27.0" inf="e1q62x64" provider="Intel" time="05/16/2013" default="1" updatetime="1419575491"/>
+    <dev ven="8086" dev="10D3" rev="FF" ver="12.7.27.0" inf="e1q62x64" provider="Intel" time="05/16/2013" default="1" updatetime="1419575491"/>
+    <dev ven="8086" dev="10F6" rev="FF" ver="12.7.27.0" inf="e1q62x64" provider="Intel" time="05/16/2013" default="1" updatetime="1419575491"/>
+    <dev ven="8086" dev="10C9" rev="FF" ver="12.7.27.0" inf="e1q62x64" provider="Intel" time="05/16/2013" default="1" updatetime="1419575491"/>
+    <dev ven="8086" dev="10E6" rev="FF" ver="12.7.27.0" inf="e1q62x64" provider="Intel" time="05/16/2013" default="1" updatetime="1419575491"/>
+    <dev ven="8086" dev="10E7" rev="FF" ver="12.7.27.0" inf="e1q62x64" provider="Intel" time="05/16/2013" default="1" updatetime="1419575491"/>
+    <dev ven="8086" dev="150A" rev="FF" ver="12.7.27.0" inf="e1q62x64" provider="Intel" time="05/16/2013" default="1" updatetime="1419575491"/>
+    <dev ven="8086" dev="1518" rev="FF" ver="12.7.27.0" inf="e1q62x64" provider="Intel" time="05/16/2013" default="1" updatetime="1419575491"/>
+    <dev ven="8086" dev="150C" rev="FF" ver="12.7.27.0" inf="e1q62x64" provider="Intel" time="05/16/2013" default="1" updatetime="1419575491"/>
+    <dir name="e1q62x64_12.7.27.0_6.1_amd64">
+        <file name="e1q62x64.inf" filetime="130131660340000000" size="154115" destpath=""/>
+        <file name="e1q62x64.sys" filetime="130088238340000000" size="495376" destpath=""/>
+        <file name="e1qmsg.dll" filetime="130070694140000000" size="73480" destpath=""/>
+    </dir>
+    <dev ven="8086" dev="150E" rev="FF" ver="12.11.97.0" inf="e1r62x64" provider="Intel" time="05/15/2014" default="1" updatetime="1419575503"/>
+    <dev ven="8086" dev="150F" rev="FF" ver="12.11.97.0" inf="e1r62x64" provider="Intel" time="05/15/2014" default="1" updatetime="1419575503"/>
+    <dev ven="8086" dev="1510" rev="FF" ver="12.11.97.0" inf="e1r62x64" provider="Intel" time="05/15/2014" default="1" updatetime="1419575503"/>
+    <dev ven="8086" dev="1521" rev="FF" ver="12.11.97.0" inf="e1r62x64" provider="Intel" time="05/15/2014" default="1" updatetime="1419575503"/>
+    <dev ven="8086" dev="1522" rev="FF" ver="12.11.97.0" inf="e1r62x64" provider="Intel" time="05/15/2014" default="1" updatetime="1419575503"/>
+    <dev ven="8086" dev="1523" rev="FF" ver="12.11.97.0" inf="e1r62x64" provider="Intel" time="05/15/2014" default="1" updatetime="1419575503"/>
+    <dev ven="8086" dev="1524" rev="FF" ver="12.11.97.0" inf="e1r62x64" provider="Intel" time="05/15/2014" default="1" updatetime="1419575503"/>
+    <dev ven="8086" dev="1533" rev="FF" ver="12.11.97.0" inf="e1r62x64" provider="Intel" time="05/15/2014" default="1" updatetime="1419575503"/>
+    <dev ven="8086" dev="1536" rev="FF" ver="12.11.97.0" inf="e1r62x64" provider="Intel" time="05/15/2014" default="1" updatetime="1419575503"/>
+    <dev ven="8086" dev="1537" rev="FF" ver="12.11.97.0" inf="e1r62x64" provider="Intel" time="05/15/2014" default="1" updatetime="1419575503"/>
+    <dev ven="8086" dev="1538" rev="FF" ver="12.11.97.0" inf="e1r62x64" provider="Intel" time="05/15/2014" default="1" updatetime="1419575503"/>
+    <dev ven="8086" dev="157B" rev="FF" ver="12.11.97.0" inf="e1r62x64" provider="Intel" time="05/15/2014" default="1" updatetime="1419575503"/>
+    <dev ven="8086" dev="157C" rev="FF" ver="12.11.97.0" inf="e1r62x64" provider="Intel" time="05/15/2014" default="1" updatetime="1419575503"/>
+    <dev ven="8086" dev="1539" rev="FF" ver="12.11.97.0" inf="e1r62x64" provider="Intel" time="05/15/2014" default="1" updatetime="1419575503"/>
+    <dir name="e1r62x64_12.11.97.0_6.1_amd64">
+        <file name="e1r62x64.inf" filetime="130446105740000000" size="187610" destpath=""/>
+        <file name="e1r62x64.sys" filetime="130389992300000000" size="487704" destpath=""/>
+        <file name="e1rmsg.dll" filetime="130385206860000000" size="73512" destpath=""/>
+    </dir>
+    <dev ven="8086" dev="1F40" rev="FF" ver="12.11.95.0" inf="e1s62x64" provider="Intel" time="03/06/2014" default="1" updatetime="1419575515"/>
+    <dev ven="8086" dev="1F41" rev="FF" ver="12.11.95.0" inf="e1s62x64" provider="Intel" time="03/06/2014" default="1" updatetime="1419575515"/>
+    <dev ven="8086" dev="1F45" rev="FF" ver="12.11.95.0" inf="e1s62x64" provider="Intel" time="03/06/2014" default="1" updatetime="1419575515"/>
+    <dir name="e1s62x64_12.11.95.0_6.1_amd64">
+        <file name="e1s62x64.inf" filetime="130385294720000000" size="42986" destpath=""/>
+        <file name="e1s62x64.sys" filetime="130385196640000000" size="487704" destpath=""/>
+        <file name="e1smsg.dll" filetime="130385274320000000" size="73512" destpath=""/>
+    </dir>
+    <dev ven="8086" dev="10F5" rev="FF" ver="10.1.17.0" inf="e1y62x64" provider="Intel" time="10/20/2011" default="1" updatetime="1419575525"/>
+    <dev ven="8086" dev="10BF" rev="FF" ver="10.1.17.0" inf="e1y62x64" provider="Intel" time="10/20/2011" default="1" updatetime="1419575525"/>
+    <dev ven="8086" dev="10CB" rev="FF" ver="10.1.17.0" inf="e1y62x64" provider="Intel" time="10/20/2011" default="1" updatetime="1419575525"/>
+    <dev ven="8086" dev="10CC" rev="FF" ver="10.1.17.0" inf="e1y62x64" provider="Intel" time="10/20/2011" default="1" updatetime="1419575525"/>
+    <dev ven="8086" dev="10CD" rev="FF" ver="10.1.17.0" inf="e1y62x64" provider="Intel" time="10/20/2011" default="1" updatetime="1419575525"/>
+    <dev ven="8086" dev="10CE" rev="FF" ver="10.1.17.0" inf="e1y62x64" provider="Intel" time="10/20/2011" default="1" updatetime="1419575525"/>
+    <dev ven="8086" dev="10E5" rev="FF" ver="10.1.17.0" inf="e1y62x64" provider="Intel" time="10/20/2011" default="1" updatetime="1419575525"/>
+    <dev ven="8086" dev="1501" rev="FF" ver="10.1.17.0" inf="e1y62x64" provider="Intel" time="10/20/2011" default="1" updatetime="1419575525"/>
+    <dir name="e1y62x64_10.1.17.0_6.1_amd64">
+        <file name="e1000msg.dll" filetime="128420823640000000" size="121440" destpath=""/>
+        <file name="e1y62x64.inf" filetime="130118532500000000" size="140902" destpath=""/>
+        <file name="e1y62x64.sys" filetime="129635546560000000" size="302296" destpath=""/>
+    </dir>
+    <dev ven="14E4" dev="166F" rev="FF" ver="7.8.58.00" inf="evbd" provider="Broadcom Corporation" time="10/03/2013" default="1" updatetime="1419575565"/>
+    <dev ven="14E4" dev="16AD" rev="FF" ver="7.8.58.00" inf="evbd" provider="Broadcom Corporation" time="10/03/2013" default="1" updatetime="1419575565"/>
+    <dev ven="14E4" dev="16AF" rev="FF" ver="7.8.58.00" inf="evbd" provider="Broadcom Corporation" time="10/03/2013" default="1" updatetime="1419575565"/>
+    <dev ven="14E4" dev="16A9" rev="FF" ver="7.8.58.00" inf="evbd" provider="Broadcom Corporation" time="10/03/2013" default="1" updatetime="1419575565"/>
+    <dir name="evbd_7.8.58.00_6.1_amd64">
+        <file name="evbd.inf" filetime="130252234240000000" size="379613" destpath=""/>
+        <file name="evbda.sys" filetime="130250507320000000" size="3425488" destpath=""/>
+        <file name="WdfCoInstaller01007.dll" filetime="128510454980000000" size="1490656" destpath=""/>
+    </dir>
+    <dev ven="8086" dev="10DD" rev="FF" ver="2.4.36.0" inf="ixe62x64" provider="Intel" time="05/15/2013" default="1" updatetime="1419575584"/>
+    <dev ven="8086" dev="10E1" rev="FF" ver="2.4.36.0" inf="ixe62x64" provider="Intel" time="05/15/2013" default="1" updatetime="1419575584"/>
+    <dev ven="8086" dev="10B6" rev="FF" ver="2.4.36.0" inf="ixe62x64" provider="Intel" time="05/15/2013" default="1" updatetime="1419575584"/>
+    <dev ven="8086" dev="10C6" rev="FF" ver="2.4.36.0" inf="ixe62x64" provider="Intel" time="05/15/2013" default="1" updatetime="1419575584"/>
+    <dev ven="8086" dev="10C7" rev="FF" ver="2.4.36.0" inf="ixe62x64" provider="Intel" time="05/15/2013" default="1" updatetime="1419575584"/>
+    <dev ven="8086" dev="10C8" rev="FF" ver="2.4.36.0" inf="ixe62x64" provider="Intel" time="05/15/2013" default="1" updatetime="1419575584"/>
+    <dev ven="8086" dev="150B" rev="FF" ver="2.4.36.0" inf="ixe62x64" provider="Intel" time="05/15/2013" default="1" updatetime="1419575584"/>
+    <dev ven="8086" dev="10EC" rev="FF" ver="2.4.36.0" inf="ixe62x64" provider="Intel" time="05/15/2013" default="1" updatetime="1419575584"/>
+    <dev ven="8086" dev="10F1" rev="FF" ver="2.4.36.0" inf="ixe62x64" provider="Intel" time="05/15/2013" default="1" updatetime="1419575584"/>
+    <dev ven="8086" dev="10F4" rev="FF" ver="2.4.36.0" inf="ixe62x64" provider="Intel" time="05/15/2013" default="1" updatetime="1419575584"/>
+    <dev ven="8086" dev="10DB" rev="FF" ver="2.4.36.0" inf="ixe62x64" provider="Intel" time="05/15/2013" default="1" updatetime="1419575584"/>
+    <dir name="ixe62x64_2.4.36.0_6.1_amd64">
+        <file name="ixe62x64.inf" filetime="130130739980000000" size="87645" destpath=""/>
+        <file name="ixe62x64.sys" filetime="129405119740000000" size="271024" destpath=""/>
+        <file name="ixemsg.dll" filetime="129400198520000000" size="68264" destpath=""/>
+    </dir>
+    <dev ven="8086" dev="10F7" rev="FF" ver="3.9.58.9101" inf="ixn62x64" provider="Intel" time="07/11/2014" default="1" updatetime="1419575595"/>
+    <dev ven="8086" dev="10F8" rev="FF" ver="3.9.58.9101" inf="ixn62x64" provider="Intel" time="07/11/2014" default="1" updatetime="1419575595"/>
+    <dev ven="8086" dev="152A" rev="FF" ver="3.9.58.9101" inf="ixn62x64" provider="Intel" time="07/11/2014" default="1" updatetime="1419575595"/>
+    <dev ven="8086" dev="10F9" rev="FF" ver="3.9.58.9101" inf="ixn62x64" provider="Intel" time="07/11/2014" default="1" updatetime="1419575595"/>
+    <dev ven="8086" dev="10FB" rev="FF" ver="3.9.58.9101" inf="ixn62x64" provider="Intel" time="07/11/2014" default="1" updatetime="1419575595"/>
+    <dev ven="8086" dev="10FC" rev="FF" ver="3.9.58.9101" inf="ixn62x64" provider="Intel" time="07/11/2014" default="1" updatetime="1419575595"/>
+    <dev ven="8086" dev="1529" rev="FF" ver="3.9.58.9101" inf="ixn62x64" provider="Intel" time="07/11/2014" default="1" updatetime="1419575595"/>
+    <dev ven="8086" dev="1557" rev="FF" ver="3.9.58.9101" inf="ixn62x64" provider="Intel" time="07/11/2014" default="1" updatetime="1419575595"/>
+    <dev ven="8086" dev="151C" rev="FF" ver="3.9.58.9101" inf="ixn62x64" provider="Intel" time="07/11/2014" default="1" updatetime="1419575595"/>
+    <dir name="ixn62x64_3.9.58.9101_6.1_amd64">
+        <file name="ixn62x64.inf" filetime="130495203620000000" size="153989" destpath=""/>
+        <file name="ixn62x64.sys" filetime="130495204640000000" size="370968" destpath=""/>
+        <file name="ixnmsg.dll" filetime="130385195840000000" size="73512" destpath=""/>
+    </dir>
+    <dev ven="8086" dev="1560" rev="FF" ver="3.9.58.9101" inf="ixt62x64" provider="Intel" time="07/11/2014" default="1" updatetime="1419575607"/>
+    <dev ven="8086" dev="1528" rev="FF" ver="3.9.58.9101" inf="ixt62x64" provider="Intel" time="07/11/2014" default="1" updatetime="1419575607"/>
+    <dir name="ixt62x64_3.9.58.9101_6.1_amd64">
+        <file name="ixt62x64.inf" filetime="130638850857247441" size="117166" destpath=""/>
+        <file name="ixt62x64.sys" filetime="130495204400000000" size="370968" destpath=""/>
+        <file name="ixtmsg.dll" filetime="130385168240000000" size="73512" destpath=""/>
+    </dir>
+    <dev ven="14E4" dev="1698" rev="FF" ver="15.6.0.10" inf="k57nd60a" provider="Broadcom" time="07/26/2013" default="1" updatetime="1419575620"/>
+    <dev ven="14E4" dev="1699" rev="FF" ver="15.6.0.10" inf="k57nd60a" provider="Broadcom" time="07/26/2013" default="1" updatetime="1419575620"/>
+    <dev ven="14E4" dev="1691" rev="FF" ver="15.6.0.10" inf="k57nd60a" provider="Broadcom" time="07/26/2013" default="1" updatetime="1419575620"/>
+    <dev ven="14E4" dev="1692" rev="FF" ver="15.6.0.10" inf="k57nd60a" provider="Broadcom" time="07/26/2013" default="1" updatetime="1419575620"/>
+    <dev ven="14E4" dev="1694" rev="FF" ver="15.6.0.10" inf="k57nd60a" provider="Broadcom" time="07/26/2013" default="1" updatetime="1419575620"/>
+    <dev ven="14E4" dev="16A0" rev="FF" ver="15.6.0.10" inf="k57nd60a" provider="Broadcom" time="07/26/2013" default="1" updatetime="1419575620"/>
+    <dev ven="14E4" dev="16B1" rev="FF" ver="15.6.0.10" inf="k57nd60a" provider="Broadcom" time="07/26/2013" default="1" updatetime="1419575620"/>
+    <dev ven="14E4" dev="16B5" rev="FF" ver="15.6.0.10" inf="k57nd60a" provider="Broadcom" time="07/26/2013" default="1" updatetime="1419575620"/>
+    <dev ven="14E4" dev="16B2" rev="FF" ver="15.6.0.10" inf="k57nd60a" provider="Broadcom" time="07/26/2013" default="1" updatetime="1419575620"/>
+    <dev ven="14E4" dev="16B6" rev="FF" ver="15.6.0.10" inf="k57nd60a" provider="Broadcom" time="07/26/2013" default="1" updatetime="1419575620"/>
+    <dev ven="14E4" dev="16B3" rev="FF" ver="15.6.0.10" inf="k57nd60a" provider="Broadcom" time="07/26/2013" default="1" updatetime="1419575620"/>
+    <dev ven="14E4" dev="16B7" rev="FF" ver="15.6.0.10" inf="k57nd60a" provider="Broadcom" time="07/26/2013" default="1" updatetime="1419575620"/>
+    <dir name="k57nd60a_15.6.0.10_6.1_amd64">
+        <file name="k57nd60a.inf" filetime="130275825100000000" size="88958" destpath=""/>
+        <file name="k57nd60a.sys" filetime="130275825100000000" size="458960" destpath=""/>
+    </dir>
+    <dev ven="1106" dev="3053" rev="FF" ver="1.15.0.1" inf="netvfx64" provider="VIA" time="03/31/2011" default="1" updatetime="1419575663"/>
+    <dev ven="1106" dev="3106" rev="FF" ver="1.15.0.1" inf="netvfx64" provider="VIA" time="03/31/2011" default="1" updatetime="1419575663"/>
+    <dev ven="1106" dev="3065" rev="FF" ver="1.15.0.1" inf="netvfx64" provider="VIA" time="03/31/2011" default="1" updatetime="1419575663"/>
+    <dev ven="1106" dev="3043" rev="FF" ver="1.15.0.1" inf="netvfx64" provider="VIA" time="03/31/2011" default="1" updatetime="1419575663"/>
+    <dir name="netvfx64_1.15.0.1_6.1_amd64">
+        <file name="difxapi.dll" filetime="128919571600000000" size="519232" destpath=""/>
+        <file name="FETN62A.sys" filetime="129481877700000000" size="57968" destpath=""/>
+        <file name="netvfx64.inf" filetime="129460112280000000" size="55243" destpath=""/>
+        <file name="vuins64.dll" filetime="128060622380000000" size="13824" destpath=""/>
+    </dir>
+    <dev ven="10DE" dev="0373" rev="FF" ver="73.2.0" inf="nvfd6x64" provider="NVIDIA" time="11/11/2009" default="1" updatetime="1419575675"/>
+    <dev ven="10DE" dev="0372" rev="FF" ver="73.2.0" inf="nvfd6x64" provider="NVIDIA" time="11/11/2009" default="1" updatetime="1419575675"/>
+    <dir name="nvfd6x64_73.2.0_6.1_amd64">
+        <file name="nvfd6x64.inf" filetime="129029160000000000" size="63240" destpath=""/>
+        <file name="nvm62x64.sys" filetime="129023992380000000" size="348264" destpath=""/>
+    </dir>
+    <dev ven="8086" dev="10CA" rev="FF" ver="1.4.5.0" inf="v1q62x64" provider="Intel" time="04/03/2013" default="1" updatetime="1419575710"/>
+    <dev ven="8086" dev="1520" rev="FF" ver="1.4.5.0" inf="v1q62x64" provider="Intel" time="04/03/2013" default="1" updatetime="1419575710"/>
+    <dir name="v1q62x64_1.4.5.0_6.1_amd64">
+        <file name="v1q62x64.inf" filetime="130094262500000000" size="20667" destpath=""/>
+        <file name="v1q62x64.sys" filetime="130087317780000000" size="138512" destpath=""/>
+        <file name="v1qmsg.dll" filetime="129042213980000000" size="64168" destpath=""/>
+    </dir>
+    <dev ven="8086" dev="10ED" rev="FF" ver="1.0.15.4" inf="vxn62x64" provider="Intel" time="03/04/2014" default="1" updatetime="1419575719"/>
+    <dev ven="8086" dev="1515" rev="FF" ver="1.0.15.4" inf="vxn62x64" provider="Intel" time="03/04/2014" default="1" updatetime="1419575719"/>
+    <dir name="vxn62x64_1.0.15.4_6.1_amd64">
+        <file name="vxn62x64.inf" filetime="130383830260000000" size="20816" destpath=""/>
+        <file name="vxn62x64.sys" filetime="130383824520000000" size="131584" destpath=""/>
+        <file name="vxnmsg.dll" filetime="130047439020000000" size="73480" destpath=""/>
+    </dir>
+    <dev ven="11AB" dev="435A" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4361" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4360" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4362" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4363" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="436D" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4364" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4380" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="436A" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4342" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4346" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4343" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4347" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4340" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4344" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4365" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="436B" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="436C" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4370" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4367" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4356" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4368" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4366" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4369" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4341" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4345" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4350" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4351" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4352" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4353" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4354" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4355" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4357" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dev ven="11AB" dev="4320" rev="FF" ver="11.0.5.3" inf="yk62x64" provider="Microsoft" time="02/23/2009" default="1" updatetime="1419575731"/>
+    <dir name="yk62x64_11.0.5.3_6.1_amd64">
+        <file name="yk62x64.inf" filetime="128920231138132735" size="354896" destpath=""/>
+        <file name="yk62x64.sys" filetime="128891397335041369" size="389120" destpath=""/>
+    </dir>
+    <dev ven="11AB" dev="4381" rev="FF" ver="12.10.14.3" inf="yk62x64" provider="Marvell" time="01/08/2013" default="1" updatetime="1419575742"/>
+    <dev ven="11AB" dev="4382" rev="FF" ver="12.10.14.3" inf="yk62x64" provider="Marvell" time="01/08/2013" default="1" updatetime="1419575742"/>
+    <dir name="yk62x64_12.10.14.3_6.1_amd64">
+        <file name="yk62x64.inf" filetime="130021170000000000" size="1153568" destpath=""/>
+        <file name="yk62x64.sys" filetime="130021170000000000" size="398816" destpath=""/>
+    </dir>
+    <dev ven="1969" dev="1063" rev="FF" ver="2.1.0.21" inf="L1c62x64" provider="Qualcomm Atheros" time="07/16/2013" default="1" updatetime="1420614654"/>
+    <dev ven="1969" dev="1063" rev="C0" ver="2.1.0.21" inf="L1c62x64" provider="Qualcomm Atheros" time="07/16/2013" default="1" updatetime="1420614654"/>
+    <dev ven="1969" dev="1062" rev="FF" ver="2.1.0.21" inf="L1c62x64" provider="Qualcomm Atheros" time="07/16/2013" default="1" updatetime="1420614654"/>
+    <dev ven="1969" dev="1062" rev="C0" ver="2.1.0.21" inf="L1c62x64" provider="Qualcomm Atheros" time="07/16/2013" default="1" updatetime="1420614654"/>
+    <dev ven="1969" dev="2060" rev="FF" ver="2.1.0.21" inf="L1c62x64" provider="Qualcomm Atheros" time="07/16/2013" default="1" updatetime="1420614654"/>
+    <dev ven="1969" dev="2060" rev="C1" ver="2.1.0.21" inf="L1c62x64" provider="Qualcomm Atheros" time="07/16/2013" default="1" updatetime="1420614654"/>
+    <dev ven="1969" dev="1073" rev="FF" ver="2.1.0.21" inf="L1c62x64" provider="Qualcomm Atheros" time="07/16/2013" default="1" updatetime="1420614654"/>
+    <dev ven="1969" dev="1073" rev="C0" ver="2.1.0.21" inf="L1c62x64" provider="Qualcomm Atheros" time="07/16/2013" default="1" updatetime="1420614654"/>
+    <dev ven="1969" dev="2062" rev="FF" ver="2.1.0.21" inf="L1c62x64" provider="Qualcomm Atheros" time="07/16/2013" default="1" updatetime="1420614654"/>
+    <dev ven="1969" dev="2062" rev="C0" ver="2.1.0.21" inf="L1c62x64" provider="Qualcomm Atheros" time="07/16/2013" default="1" updatetime="1420614654"/>
+    <dev ven="1969" dev="2062" rev="C1" ver="2.1.0.21" inf="L1c62x64" provider="Qualcomm Atheros" time="07/16/2013" default="1" updatetime="1420614654"/>
+    <dev ven="1969" dev="1083" rev="FF" ver="2.1.0.21" inf="L1c62x64" provider="Qualcomm Atheros" time="07/16/2013" default="1" updatetime="1420614654"/>
+    <dev ven="1969" dev="1083" rev="C0" ver="2.1.0.21" inf="L1c62x64" provider="Qualcomm Atheros" time="07/16/2013" default="1" updatetime="1420614654"/>
+    <dev ven="1969" dev="1091" rev="FF" ver="2.1.0.21" inf="L1c62x64" provider="Qualcomm Atheros" time="07/16/2013" default="1" updatetime="1420614654"/>
+    <dev ven="1969" dev="1090" rev="FF" ver="2.1.0.21" inf="L1c62x64" provider="Qualcomm Atheros" time="07/16/2013" default="1" updatetime="1420614654"/>
+    <dev ven="1969" dev="10A1" rev="FF" ver="2.1.0.21" inf="L1c62x64" provider="Qualcomm Atheros" time="07/16/2013" default="1" updatetime="1420614654"/>
+    <dev ven="1969" dev="10A0" rev="FF" ver="2.1.0.21" inf="L1c62x64" provider="Qualcomm Atheros" time="07/16/2013" default="1" updatetime="1420614654"/>
+    <dir name="L1c62x64_2.1.0.21_6.1_amd64">
+        <file name="L1c62x64.inf" filetime="130205015413374274" size="667618" destpath=""/>
+        <file name="L1c62x64.sys" filetime="130186004910486566" size="129224" destpath=""/>
+    </dir>
+    <dev ven="1969" dev="1026" rev="FF" ver="1.0.0.22" inf="L1E62x64" provider="Atheros" time="03/29/2010" default="1" updatetime="1420614662"/>
+    <dev ven="1969" dev="1026" rev="F0" ver="1.0.0.22" inf="L1E62x64" provider="Atheros" time="03/29/2010" default="1" updatetime="1420614662"/>
+    <dev ven="1969" dev="1026" rev="B0" ver="1.0.0.22" inf="L1E62x64" provider="Atheros" time="03/29/2010" default="1" updatetime="1420614662"/>
+    <dir name="L1E62x64_1.0.0.22_6.1_amd64">
+        <file name="L1E62x64.inf" filetime="129143046804297103" size="84380" destpath=""/>
+        <file name="L1E62x64.sys" filetime="129143062773862540" size="64040" destpath=""/>
+    </dir>
+    <dev ven="10EC" dev="8169" rev="10" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="01" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8136" rev="01" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8167" rev="FF" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="02" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8136" rev="02" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="03" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="04" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="06" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="08" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8137" rev="03" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8136" rev="04" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8136" rev="05" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8136" rev="06" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8136" rev="07" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8136" rev="08" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8136" rev="09" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8136" rev="0A" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="07" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="09" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="0B" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="0C" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="11" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="10" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="15" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="16" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="17" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="18" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="19" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="0A" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="0F" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="12" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="14" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="0E" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="0D" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="13" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="1A" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="1B" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="1C" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="1D" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="1E" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="1F" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="20" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="21" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="22" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="23" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="24" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="25" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="26" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="27" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8168" rev="28" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8136" rev="0B" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8136" rev="0C" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8136" rev="0D" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8136" rev="0E" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8136" rev="0F" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dev ven="10EC" dev="8136" rev="10" ver="7.090.0826.2014" inf="rt64win7" provider="Realtek" time="08/26/2014" default="1" updatetime="1421215047"/>
+    <dir name="rt64win7_7.090.0826.2014_6.1_amd64">
+        <file name="rt64win7.inf" filetime="130610311358698337" size="1528988" destpath=""/>
+        <file name="rt64win7.sys" filetime="130535934260000000" size="942808" destpath=""/>
+        <file name="RtNicprop64.DLL" filetime="130535934260000000" size="73800" destpath=""/>
+    </dir>
+    <dev ven="8086" dev="1008" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="1009" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="100D" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="100C" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="100E" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="1015" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="1016" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="101E" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="100F" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="1011" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="1010" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="1012" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="1013" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="1018" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="1019" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="101D" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="1026" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="1027" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="1028" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="1075" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="1076" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="1077" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="1079" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="107A" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="107B" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="107C" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="108A" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dev ven="8086" dev="10B5" rev="FF" ver="8.4.1.0" inf="e1g6032e" provider="Microsoft" time="05/28/2008" default="1" updatetime="1421663259"/>
+    <dir name="e1g6032e_8.4.1.0_6.1_amd64">
+        <file name="e1g6032e.inf" filetime="128920231139224737" size="102470" destpath=""/>
+        <file name="e1g6032e.sys" filetime="128891397098080407" size="145792" destpath=""/>
+    </dir>
+    <dev ven="1969" dev="E091" rev="FF" ver="8.1.0.23" inf="e22w7x64" provider="Qualcomm Atheros" time="03/27/2014" default="1" updatetime="1424085637"/>
+    <dir name="e22w7x64_8.1.0.23_6.1_amd64">
+        <file name="e22w7x64.inf" filetime="130685590881493736" size="141460" destpath=""/>
+        <file name="e22w7x64.sys" filetime="130403573920000000" size="129200" destpath=""/>
+    </dir>
+    <dev ven="8086" dev="1502" rev="FF" ver="12.6.45.0" inf="e1c62x64" provider="Intel" time="05/15/2013" default="1" updatetime="1430531535"/>
+    <dev ven="8086" dev="1503" rev="FF" ver="12.6.45.0" inf="e1c62x64" provider="Intel" time="05/15/2013" default="1" updatetime="1430531535"/>
+    <dir name="e1c62x64_12.6.45.0_6.1_amd64">
+        <file name="e1c62x64.inf" filetime="130131363022210799" size="85127" destpath=""/>
+        <file name="e1c62x64.sys" filetime="130058972435306090" size="495888" destpath=""/>
+    </dir>
+    <dev ven="10EC" dev="8136" rev="11" ver="7.092.0115.2015" inf="rt64win7" provider="Realtek" time="01/15/2015" default="1" updatetime="1441012199"/>
+    <dev ven="10EC" dev="8136" rev="12" ver="7.092.0115.2015" inf="rt64win7" provider="Realtek" time="01/15/2015" default="1" updatetime="1441012199"/>
+    <dev ven="10EC" dev="8136" rev="13" ver="7.092.0115.2015" inf="rt64win7" provider="Realtek" time="01/15/2015" default="1" updatetime="1441012199"/>
+    <dev ven="10EC" dev="8136" rev="14" ver="7.092.0115.2015" inf="rt64win7" provider="Realtek" time="01/15/2015" default="1" updatetime="1441012199"/>
+    <dev ven="10EC" dev="8136" rev="15" ver="7.092.0115.2015" inf="rt64win7" provider="Realtek" time="01/15/2015" default="1" updatetime="1441012199"/>
+    <dev ven="10EC" dev="8136" rev="16" ver="7.092.0115.2015" inf="rt64win7" provider="Realtek" time="01/15/2015" default="1" updatetime="1441012199"/>
+    <dev ven="10EC" dev="8136" rev="17" ver="7.092.0115.2015" inf="rt64win7" provider="Realtek" time="01/15/2015" default="1" updatetime="1441012199"/>
+    <dev ven="10EC" dev="8136" rev="18" ver="7.092.0115.2015" inf="rt64win7" provider="Realtek" time="01/15/2015" default="1" updatetime="1441012199"/>
+    <dev ven="10EC" dev="8136" rev="19" ver="7.092.0115.2015" inf="rt64win7" provider="Realtek" time="01/15/2015" default="1" updatetime="1441012199"/>
+    <dev ven="10EC" dev="8136" rev="1A" ver="7.092.0115.2015" inf="rt64win7" provider="Realtek" time="01/15/2015" default="1" updatetime="1441012199"/>
+    <dev ven="10EC" dev="8136" rev="1B" ver="7.092.0115.2015" inf="rt64win7" provider="Realtek" time="01/15/2015" default="1" updatetime="1441012199"/>
+    <dev ven="10EC" dev="8136" rev="1C" ver="7.092.0115.2015" inf="rt64win7" provider="Realtek" time="01/15/2015" default="1" updatetime="1441012199"/>
+    <dev ven="10EC" dev="8136" rev="1D" ver="7.092.0115.2015" inf="rt64win7" provider="Realtek" time="01/15/2015" default="1" updatetime="1441012199"/>
+    <dev ven="10EC" dev="8136" rev="1E" ver="7.092.0115.2015" inf="rt64win7" provider="Realtek" time="01/15/2015" default="1" updatetime="1441012199"/>
+    <dev ven="10EC" dev="8136" rev="1F" ver="7.092.0115.2015" inf="rt64win7" provider="Realtek" time="01/15/2015" default="1" updatetime="1441012199"/>
+    <dir name="rt64win7_7.092.0115.2015_6.1_amd64">
+        <file name="note.txt" filetime="130813936140000000" size="112" destpath=""/>
+        <file name="rt64win7.cat" filetime="130848558645178903" size="832919" destpath=""/>
+        <file name="rt64win7.inf" filetime="130848558645647647" size="1639452" destpath=""/>
+        <file name="rt64win7.sys" filetime="130848558648460134" size="987888" destpath=""/>
+        <file name="RtNicprop64.DLL" filetime="130848558650022641" size="101520" destpath=""/>
+        <file name="RTNUninst64.dll" filetime="130848558650491397" size="135272" destpath=""/>
+    </dir>
+    <dev ven="8086" dev="153A" rev="FF" ver="12.13.17.7" inf="e1d62x64" provider="Intel" time="08/13/2015" default="1" updatetime="1446627126"/>
+    <dev ven="8086" dev="153B" rev="FF" ver="12.13.17.7" inf="e1d62x64" provider="Intel" time="08/13/2015" default="1" updatetime="1446627126"/>
+    <dev ven="8086" dev="155A" rev="FF" ver="12.13.17.7" inf="e1d62x64" provider="Intel" time="08/13/2015" default="1" updatetime="1446627126"/>
+    <dev ven="8086" dev="1559" rev="FF" ver="12.13.17.7" inf="e1d62x64" provider="Intel" time="08/13/2015" default="1" updatetime="1446627126"/>
+    <dev ven="8086" dev="15A0" rev="FF" ver="12.13.17.7" inf="e1d62x64" provider="Intel" time="08/13/2015" default="1" updatetime="1446627126"/>
+    <dev ven="8086" dev="15A1" rev="FF" ver="12.13.17.7" inf="e1d62x64" provider="Intel" time="08/13/2015" default="1" updatetime="1446627126"/>
+    <dev ven="8086" dev="15A2" rev="FF" ver="12.13.17.7" inf="e1d62x64" provider="Intel" time="08/13/2015" default="1" updatetime="1446627126"/>
+    <dev ven="8086" dev="15A3" rev="FF" ver="12.13.17.7" inf="e1d62x64" provider="Intel" time="08/13/2015" default="1" updatetime="1446627126"/>
+    <dev ven="8086" dev="156F" rev="FF" ver="12.13.17.7" inf="e1d62x64" provider="Intel" time="08/13/2015" default="1" updatetime="1446627126"/>
+    <dev ven="8086" dev="1570" rev="FF" ver="12.13.17.7" inf="e1d62x64" provider="Intel" time="08/13/2015" default="1" updatetime="1446627126"/>
+    <dev ven="8086" dev="15B7" rev="FF" ver="12.13.17.7" inf="e1d62x64" provider="Intel" time="08/13/2015" default="1" updatetime="1446627126"/>
+    <dev ven="8086" dev="15B8" rev="FF" ver="12.13.17.7" inf="e1d62x64" provider="Intel" time="08/13/2015" default="1" updatetime="1446627126"/>
+    <dir name="e1d62x64_12.13.17.7_6.1_amd64">
+        <file name="e1d62x64.cat" filetime="130855563240000000" size="13106" destpath=""/>
+        <file name="e1d62x64.din" filetime="130838766400000000" size="3130" destpath=""/>
+        <file name="e1d62x64.inf" filetime="130838766400000000" size="122503" destpath=""/>
+        <file name="e1d62x64.sys" filetime="130838763980000000" size="502256" destpath=""/>
+        <file name="e1dmsg.dll" filetime="130423223320000000" size="73512" destpath=""/>
+        <file name="nicco4.dll" filetime="130422718500000000" size="125728" destpath=""/>
+        <file name="NicInstD.dll" filetime="130789493240000000" size="90608" destpath=""/>
+    </dir>
+    <dev ven="8086" dev="1008" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="1009" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="100C" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="100D" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="100E" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="100F" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="1010" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="1011" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="1012" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="1013" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="1015" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="1016" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="1018" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="1019" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="101D" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="101E" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="1026" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="1027" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="1028" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="1075" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="1076" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="1077" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="1079" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="107A" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="107B" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="107C" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="108A" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dev ven="8086" dev="10B5" rev="FF" ver="8.4.1.1" inf="e1g6032e" provider="Intel" time="5-28-2008" default="0" updatetime="1571754078"/>
+    <dir name="e1g6032e_8.4.1.1_6.1_AMD64">
+        <file name="e1g6032e.inf" filetime="132160404155096011" size="102470" destpath=""/>
+        <file name="E1G6032E.sys" filetime="131783478740000000" size="145792" destpath=""/>
+    </dir>
+</pnpinfo>

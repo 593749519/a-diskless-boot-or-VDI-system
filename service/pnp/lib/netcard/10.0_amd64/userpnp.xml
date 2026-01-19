@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pnpinfo os="10.0_AMD64">
+    <dev ven="8086" dev="0D4C" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="0D4D" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="0D4E" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="0D4F" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="0D53" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="0D55" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="0DC5" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="0DC6" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="0DC7" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="0DC8" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="153A" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="153B" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="1559" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="155A" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="156F" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="1570" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15A0" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15A1" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15A2" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15A3" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15B7" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15B8" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15B9" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15BB" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15BC" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15BD" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15BE" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15D6" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15D7" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15D8" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15DF" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15E0" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15E1" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15E2" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15E3" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15F4" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15F9" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15FA" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15FB" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="15FC" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="1A1C" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="1A1D" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="1A1E" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="1A1F" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="550A" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="550B" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="550C" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="550D" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="550E" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="550F" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="57A0" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="57A1" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="57B3" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="57B4" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="57B5" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="57B6" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="57B7" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dev ven="8086" dev="57B8" rev="FF" ver="12.19.2.65" inf="e1d" provider="Intel" time="6-17-2025" default="0" updatetime="1767625532"/>
+    <dir name="e1d_12.19.2.65_10.0_AMD64">
+        <file name="e1d.inf" filetime="133983048400000000" size="475278" destpath=""/>
+        <file name="e1d.sys" filetime="133983048400000000" size="615560" destpath=""/>
+        <file name="e1dmsg.dll" filetime="133983048400000000" size="33920" destpath=""/>
+    </dir>
+</pnpinfo>

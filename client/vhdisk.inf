@@ -1,0 +1,73 @@
+;
+; vhdisk.inf
+;
+[Version]
+Signature="$Windows NT$"
+Class=SCSIAdapter
+ClassGUID={4D36E97B-E325-11CE-BFC1-08002BE10318}
+Provider=%INF_PROVIDER%
+DriverVer=12/13/2025,23.38.26.671
+;CatalogFile.NTx86=vhdisk_x86.cat
+CatalogFile.NTamd64=vhdisk_x64.cat
+
+[SourceDisksNames]
+1 = "Install Disk",Disk1,,
+
+[SourceDisksFiles.x86]
+vhdisk_x86.sys = 1,,,
+
+[SourceDisksFiles.amd64]
+vhdisk_x64.sys = 1,,,
+
+[DestinationDirs]
+DefaultDestDir = 12
+Vhdisk_File_Driver = 12
+
+[Manufacturer]
+%MfgName%=Mfg0,NTx86,NTamd64
+
+[Mfg0.NTx86]
+%Vhdisk.DeviceDesc%= Vhdisk, Root\Vhdisk
+
+[Mfg0.NTamd64]
+%Vhdisk.DeviceDesc%= Vhdisk, Root\Vhdisk
+
+[Vhdisk.NTx86]
+CopyFiles=Vhdisk_File_Driver_x86
+
+[Vhdisk.NTamd64]
+CopyFiles=Vhdisk_File_Driver_amd64
+
+[Vhdisk.NTx86.Services]
+AddService = Vhdisk, 2, Vhdisk_Service_Inst.NTx86
+
+[Vhdisk.NTamd64.Services]
+AddService = Vhdisk, 2, Vhdisk_Service_Inst.NTamd64
+
+[Vhdisk_Service_Inst.NTx86]
+ServiceType    = 1
+StartType      = 0
+ErrorControl   = 1
+ServiceBinary  = %12%\Vhdisk_x86.sys
+LoadOrderGroup = SCSI Miniport
+
+[Vhdisk_Service_Inst.NTamd64]
+ServiceType    = 1
+StartType      = 0
+ErrorControl   = 1
+ServiceBinary  = %12%\Vhdisk_x64.sys
+LoadOrderGroup = SCSI Miniport
+
+[Vhdisk_File_Driver_x86]
+Vhdisk_x86.sys
+
+[Vhdisk_File_Driver_amd64]
+Vhdisk_x64.sys
+
+[Strings]
+INF_PROVIDER="Longteng virtual harddisk device"
+Vhdisk.DeviceDesc="Longteng virtual harddisk device"
+MfgName="Longteng tech."
+
+
+
