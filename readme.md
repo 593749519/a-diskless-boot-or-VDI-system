@@ -34,6 +34,7 @@ This is a diskless system for booting Windows, usually called VDI system.
 ​	用法(Usage):
 
 ​        makeimage.exe  mage_path bios_uefi_compatible_flag
+
 ​        Example: makeimage d:\test.vhd 1
 
 ​	其中bios_uefi_compatible_flag表示是否制作BIOS/UEFI兼容镜像( bios_uefi_compatible_flag means whether create a BIOS/UEFI compatible image)
@@ -41,7 +42,9 @@ This is a diskless system for booting Windows, usually called VDI system.
 ##### 备注(Comment)
 
 ​	本工程使用C++编写，主要模块包括PXE, DHCP, TFTP, BIOS启动器，UEFI启动器，Windows虚拟磁盘驱动，Windows Pnp驱动，高性能网络服务等等。如果你有兴趣扩展或使用它，请Email到593749519.qq.com
+
 ​	This project is build using C++, the key modules making it work are PXE, DHCP, TFTP, BIOS Loader, UEFI Loader, Windows virtual disk driver, Windows pseudo PnP Driver, High performance network server etc. If you are interested in build it or using it, contact me @593749519.qq.com
 
 ​	工程中使用有QT和TightVNC开源组件，如有侵权，请告知删除。
+
 ​	QT and TightVNC are used in this project,  If there is any infringement, please inform me to delete it.
